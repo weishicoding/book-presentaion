@@ -26,7 +26,7 @@ export default function Hero() {
             }`}
           >
             <span className="px-4 py-1 rounded-full text-xs md:text-sm font-medium bg-cyan-400/30 text-blue-400 border border-cyan-700/30">
-              Will {``} <span className="pl-5">20.03.2025</span>
+              Will {``} <span className="pl-5">24.03.2025</span>
             </span>
           </div>
 

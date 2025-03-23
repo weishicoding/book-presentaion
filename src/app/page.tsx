@@ -1,5 +1,3 @@
-"use client";
-
 import Hero from "@/components/Hero";
 import ServicesSection from "@/components/ServicesSection";
 import SmoothScroll from "@/components/SmoothScroll";
